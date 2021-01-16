@@ -117,8 +117,7 @@ body {
     transform: translateY(4px);
 }
 
-.button.active {
-
+.active {
     width: 112px;
     height: 58px;
     background-color: #ffd058;
